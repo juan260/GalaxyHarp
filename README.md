@@ -1,5 +1,5 @@
 # Galaxy Harp
-![Galaxy Harp](picture.png =1574×614)
+![Galaxy Harp](picture.png | width=1574)
 
 
 
