@@ -1,7 +1,7 @@
 # Galaxy Harp
 ![Galaxy Harp](picture.png)
 
-<img src="picture.png" width = "1574" height = "614">
+<img src="picture.png" width="1574" height="614">
 
 The Galaxy Harp is essentially a sensor based MIDI controller with some LED strip functionality. The code is written in Arduino for Teensy 4.0 board.
 
