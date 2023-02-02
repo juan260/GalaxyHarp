@@ -1,5 +1,7 @@
+
 # Performance project
 ![Galaxy Harp](picture.jpg)
+
 The Galaxy Harp is essentially a sensor based MIDI controller with some LED strip functionality. The code is written in Arduino for Teensy 4.0 board.
 
 
