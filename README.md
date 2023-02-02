@@ -1,7 +1,7 @@
 # Galaxy Harp
-![Galaxy Harp](picture.png | width=1574)
+![Galaxy Harp](picture.png)
 
-<img src="picture.png" width="1574" rotate="90" />
+<> <img src="picture.png" width="100" rotate="0" />
 
 
 
